@@ -1,0 +1,16 @@
+body {
+    background-color: #fafbfe;
+}
+
+.table#main > thead > tr > th, .table > thead > tr > td {
+    border: 0;
+}
+
+.panel > .panel-heading {
+	background-color:#777;
+	color: #eee;
+}
+
+.panel > .panel-footer {
+	background-color:#ccc;
+}
