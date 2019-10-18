@@ -1,2 +1,2 @@
 # E-Voting-System
-e-voting-system in php
+e-voting-system develop in Php adn Mysql.
